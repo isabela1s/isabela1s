@@ -1,6 +1,6 @@
 # Olá, me chamo Isabela! 👋
 
-## Bem-vindo(a) ao meu perfil GitHub! 
+### Bem-vindo(a) ao meu perfil GitHub! 
 
 ---
 
@@ -28,7 +28,7 @@
 </div>
 
 ---
-
+<!--
 ## 📊 Estatísticas do GitHub
 
 <div>
@@ -39,7 +39,7 @@
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=isabela1s&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </a>
 </div>
-
+-->
 ---
 
 <picture>
