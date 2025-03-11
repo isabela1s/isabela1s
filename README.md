@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá, me chamo Isabela! 👋
 
-<!--
-**isabela1s/isabela1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bem-vindo(a) ao meu perfil GitHub! 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Ferramentas e Tecnologias
+
+<div>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+</div>
+
+---
+
+## 🌱 Estou aprendendo
+
+<div>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div>
+  <a href="https://github.com/isabela1s">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabela1s&layout=compact&langs_count=7&theme=dracula" alt="Top Langs"/>
+  </a>
+  <a href="https://github.com/isabela1s">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=isabela1s&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </a>
+</div>
+
+---
+
+![Snake animation](https://github.com/isabela1s/isabela1s/blob/output/github-contribution-grid-snake.svg)
