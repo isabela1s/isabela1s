@@ -1,4 +1,6 @@
-<h1 align="center">Olá, me chamo Isabela! 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Olá%2C+me+chamo+Isabela!" alt="Typing SVG" />
+</p>
 
 <h3 align="center">Bem-vindo(a) ao meu perfil GitHub!</h3>
 
