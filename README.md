@@ -5,8 +5,8 @@
 ---
 
 ## 👩‍💻 Sobre mim
-<div align="center">
-  ### Sou apaixonada por resolver problemas com código, especialmente usando Python e ferramentas de dados. Atualmente focada em desenvolvimento backend, APIs e análise de dados.  
+<div align="center" width="20">
+  Sou apaixonada por resolver problemas com código, especialmente usando Python e ferramentas de dados. Atualmente focada em desenvolvimento backend, APIs e análise de dados.  
 </div>
 
 ## 🛠️ Ferramentas e Tecnologias
