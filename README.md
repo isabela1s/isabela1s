@@ -5,7 +5,7 @@
 ---
 
 ## 👩‍💻 Sobre mim
-<div align="center" width="20">
+<div align="center" width="100">
   Sou apaixonada por resolver problemas com código, especialmente usando Python e ferramentas de dados. Atualmente focada em desenvolvimento backend, APIs e análise de dados.  
 </div>
 
