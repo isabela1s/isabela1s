@@ -82,7 +82,7 @@
 </picture>
 ## 📫 Contato
 
-- 🌐 [Meu LinkedIn](https://www.linkedin.com/in/do/)
+- 🌐 [Meu LinkedIn](https://ww.linkedin.com/in/do/)
 - 📧 **Email:** sgmail.com
 - 🐦 [Meu Twitter](htv) *(Em construção 🚀)*
 
